@@ -169,6 +169,13 @@ h1 {
   background-size: contain;
 }
 
+
+.image-design-4 {
+  background-image: url('../images/design-4.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 .image-blurred-edge img {
   visibility: hidden;
 }
